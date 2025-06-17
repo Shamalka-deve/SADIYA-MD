@@ -7,20 +7,20 @@
 
   "env": {
     "DATABASE_REPO_NAME": {
-      "description": "Put Your Database Repo Name Here.",
+      "description": "SADIYA-MD",
       "value": "SADIYA-MD-DATABASE",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put Your Github Auth Token Here.",
+      "description": "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",
       "required": true
     },
     "GITHUB_USER_NAME": {
-      "description": "Put Your Github User Name Here.",
+      "description": "Shamalka-deve",
       "required": true
     },
     "SESSION_ID": {
-      "description": "Put the Session-ID You Got From Pair Or Scan Qr.",
+      "description": "SADIYA-MD=zoZACSQR#CXFPxMW01m62RQGE8yaV_QMqD3D4bx8p0ppgB_8nbfQ",
       "required": true
     }
 },
