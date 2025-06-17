@@ -7,7 +7,7 @@
 
   "env": {
     "DATABASE_REPO_NAME": {
-      "description": "SADIYA-MD",
+      "description": "SADIYA-MD-DATABASE",
       "value": "SADIYA-MD-DATABASE",
       "required": true
     },
